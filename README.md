@@ -11,7 +11,7 @@
 - **Tools:** Git, VS Code, GitHub, Vite  
 
 ### 📫 Contact
-- Email: chhavi@example.com  
+- Email: mathurchhavi74@gmail.com
 - LinkedIn: [linkedin.com/in/chhavi](https://linkedin.com/in/chhavi)  
 
 
