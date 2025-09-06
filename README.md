@@ -12,6 +12,6 @@
 
 ### 📫 Contact
 - Email: mathurchhavi74@gmail.com
-- LinkedIn: [linkedin.com/in/chhavi](https://linkedin.com/in/chhavi)  
+- LinkedIn: www.linkedin.com/in/chhavi-mathur-03317b26b
 
 
